@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About\"\n---\n\nI am a Ph.D. student the School of Political Science, Government and International Affairs at Tel Aviv University. My primary research interests are in public opinion toward immigration and integration policies, and experimental design and analysis.\nI hold an M.A. in Political Science (Summa Cum Laude) and a B.A. in Economics and Political Science (Summa Cum Laude).",
+    "created" : 1515593941615.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "95487449",
+    "id" : "79B7F73D",
+    "lastKnownWriteTime" : 1515596881,
+    "last_content_update" : 1515596881805,
+    "path" : "~/R/projects/webs/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

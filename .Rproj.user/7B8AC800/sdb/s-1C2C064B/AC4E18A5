@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# R MARKDOWN\n# library(\"rmarkdown\", lib.loc=\"~/R/win-library/3.4\")\n# \n# library(\"tidyverse\", lib.loc=\"~/R/win-library/3.4\")\n\n\n\n\n\n",
+    "created" : 1515591032048.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "425200854",
+    "id" : "AC4E18A5",
+    "lastKnownWriteTime" : 1515591177,
+    "last_content_update" : 1515591177273,
+    "path" : "~/R/projects/webs/webs.R",
+    "project_path" : "webs.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"HOME\"\n---\n\nWelcome to my website!\nI am a Ph.D. student in political science at Tel Aviv University. <https://social-sciences.tau.ac.il/poli-site/omer-solodoch>.\n",
+    "created" : 1515593914730.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "922268030",
+    "id" : "915728F2",
+    "lastKnownWriteTime" : 1515596929,
+    "last_content_update" : 1515596929562,
+    "path" : "~/R/projects/webs/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

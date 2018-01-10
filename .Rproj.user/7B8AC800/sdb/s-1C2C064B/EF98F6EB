@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"OMER SOLODOCH\"\nnavbar:\n  title: \"OMER SOLODOCH\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html\n    - text: \"Research\"\n      href: research.html\n    - text: \"Teaching\"\n      href: teaching.html",
+    "created" : 1515593768792.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "315089106",
+    "id" : "EF98F6EB",
+    "lastKnownWriteTime" : 1515597514,
+    "last_content_update" : 1515597514,
+    "path" : "~/R/projects/webs/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Teaching\"\n---\n\nTel-Aviv University, Department of Political Science\n\n\n- Political Economy, 2015-2016; 2016-2017\n\n- Research Methods, 2016-2017\n\n- Scientific Writing Instruction, 2016-2017",
+    "created" : 1515597233998.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "823554031",
+    "id" : "25672BF6",
+    "lastKnownWriteTime" : 1515597477,
+    "last_content_update" : 1515597477334,
+    "path" : "~/R/projects/webs/teaching.Rmd",
+    "project_path" : "teaching.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
